@@ -1,0 +1,8 @@
+{
+  "preferences": {
+    "stylus.valueSeparator": ": "
+  },
+  "syntaxProfiles": {
+    "html": "xhtml"
+  }
+}

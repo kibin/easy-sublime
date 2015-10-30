@@ -1,0 +1,2972 @@
+{
+	"folder_history":
+	[
+		"/Users/al/projects/debijenkorf",
+		"/Users/al/projects/zvq-web-proxy",
+		"/Users/al/projects/zvq-prod",
+		"/Users/al/projects/zvq-prod/.git",
+		"/Users/al/projects/zvq-prod/var",
+		"/Users/al/projects/zvq-web-proxy/node_modules/webpack",
+		"/Users/al/projects/zvq-web-proxy/node_modules/webpack/lib",
+		"/Users/al/projects/zvq-web-proxy/frontend/src/modules/media",
+		"/Users/al/projects/zvq-prod/zvooq-web/grunt",
+		"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/genre_page",
+		"/Users/al/projects/zvq-web-proxy/frontend/src/modules/code",
+		"/Users/al/Desktop/menu",
+		"/Users/al/Library/Application Support/Sublime Text 3/Packages/User/ZVQsnippets",
+		"/Users/al/Desktop/Zvooq_test_app",
+		"/Users/al/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/85848889-57C7-4A32-8B36-53808F21EA20/_main",
+		"/Users/al/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/A7CE4F9F-A3D5-4AC0-845D-3B44CAF98401/application",
+		"/Users/al/Desktop/react",
+		"/Users/al/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/B68E8ECD-F137-4F01-B444-5BB8B8B52A20/react",
+		"/Users/al/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/20D1A9CC-3426-4852-9749-92D195C6A7D4/ember-samples",
+		"/Users/al/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/F65F1909-D73B-4EBF-A17B-2127278620DF/code",
+		"/Users/al/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/F287E8AE-F26E-4213-B2B7-A13625B7170A/ng-app",
+		"/Users/al/Dropbox/code/fly",
+		"/Users/al/projects/zvq-web-proxy/nstatic/public/compiled",
+		"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus",
+		"/Users/al/projects/js/react-starter",
+		"/Users/al/projects/js/boilerplate-webpack-react",
+		"/Users/al/Dropbox/code/food",
+		"/Users/al/Google Drive/edu/src/csound",
+		"/Users/al/Dropbox/code",
+		"/Users/al/Dropbox/Папки",
+		"/Users/al/Downloads/check",
+		"/Users/al/projects/clojure",
+		"/Users/al/projects/clojure/i-am-a-horse-in-the-land-of-booleans",
+		"/Users/al/projects/clojure/clojure-koans/src",
+		"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/release",
+		"/Users/al/projects/static/gridster",
+		"/Users/al/projects/zvq-prod/zvooq-web",
+		"/Users/al/projects/featurephones",
+		"/Users/al/projects/js/work/zvq-prod",
+		"/Users/al/projects/js/helping/ajax",
+		"/Users/al/.vim",
+		"/Users/al/Projects/js/work/round.me",
+		"/Users/al/Projects/js/helping/neps/neps",
+		"/Users/al/projects/js/work/round.me",
+		"/Users/al/Projects/js/work/geenio/geenio-frontend",
+		"/Users/al/Projects/js/helping/neps/neps/coverage",
+		"/Users/al/Projects/js/opensource/karma-browserify",
+		"/Users/al/Projects/scheme"
+	],
+	"last_version": 3083,
+	"last_window_id": 201,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 755.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"com",
+						"componentDidMount"
+					],
+					[
+						"sen",
+						"sendClickstream"
+					],
+					[
+						"stre",
+						"stretched"
+					],
+					[
+						"tags",
+						"tagsString"
+					],
+					[
+						"next",
+						"nextFilter"
+					],
+					[
+						"on",
+						"onMoodsLoad"
+					],
+					[
+						"tex-",
+						"text-decoration"
+					],
+					[
+						"bore",
+						"border-left"
+					],
+					[
+						"con",
+						"convertColor"
+					],
+					[
+						"crea",
+						"createcomponent	jsxBoilerPlate"
+					],
+					[
+						"cre",
+						"createcomponent	jsxBoilerPlate"
+					],
+					[
+						"set",
+						"setupEnvironment"
+					],
+					[
+						"get",
+						"getFilter"
+					],
+					[
+						"_p",
+						"_prevFilter"
+					],
+					[
+						"sin",
+						"singlesFromQs"
+					],
+					[
+						"user",
+						"userConnections"
+					],
+					[
+						"show",
+						"showSuccess"
+					],
+					[
+						"sho",
+						"showSubscription"
+					],
+					[
+						"close",
+						"closePopup"
+					],
+					[
+						"fixe",
+						"fixedWidth"
+					],
+					[
+						"max",
+						"maxWidth"
+					],
+					[
+						"parent",
+						"parentWidth"
+					],
+					[
+						"min",
+						"minMarginsWidth"
+					],
+					[
+						"mar",
+						"marginWidth"
+					],
+					[
+						"paren",
+						"parentWidth"
+					],
+					[
+						"Re",
+						"ReactDOM"
+					],
+					[
+						"dis",
+						"displayStyle"
+					],
+					[
+						"add",
+						"addChild"
+					],
+					[
+						"has",
+						"hasFeature"
+					],
+					[
+						"to",
+						"topGenreIds"
+					],
+					[
+						"que",
+						"queueItems"
+					],
+					[
+						"track",
+						"trackIds"
+					],
+					[
+						"contexts",
+						"contextsToXhr_"
+					],
+					[
+						"isDefAndNotNull",
+						"!goog.isDefAndNotNull	notisnull"
+					],
+					[
+						"ext",
+						"extraPositions"
+					],
+					[
+						"web",
+						"webpackConfig"
+					],
+					[
+						"op",
+						"optimizeCommon"
+					],
+					[
+						"tar",
+						"targetObj"
+					],
+					[
+						"su",
+						"submitFunc"
+					],
+					[
+						"sub",
+						"submitFunc"
+					],
+					[
+						"succes",
+						"successFunc"
+					],
+					[
+						"lo",
+						"log	console.log(...);"
+					],
+					[
+						"babel",
+						"babelIdx"
+					],
+					[
+						"lode",
+						"loader"
+					],
+					[
+						"test",
+						"test_helpers"
+					],
+					[
+						"rewi",
+						"rewiredReverts"
+					],
+					[
+						"va",
+						"varValues"
+					],
+					[
+						"succ",
+						"successFunc"
+					],
+					[
+						"lin",
+						"linkADom"
+					],
+					[
+						"text",
+						"textContent"
+					],
+					[
+						"geob",
+						"geoblock"
+					],
+					[
+						"redu",
+						"reduceFn"
+					],
+					[
+						"reduce",
+						"reduceFn"
+					],
+					[
+						"create",
+						"createReducer"
+					],
+					[
+						"mere",
+						"mergeMethodName"
+					],
+					[
+						"re",
+						"reduced"
+					],
+					[
+						"pro",
+						"processedActions"
+					],
+					[
+						"ac",
+						"actionDescription"
+					],
+					[
+						"mini",
+						"miniObject"
+					],
+					[
+						"params",
+						"paramsArray"
+					],
+					[
+						"query",
+						"queryString"
+					],
+					[
+						"param",
+						"paramsObject"
+					],
+					[
+						"from",
+						"fromJS"
+					],
+					[
+						"email",
+						"emailFail"
+					],
+					[
+						"pane",
+						"paneParams"
+					],
+					[
+						"onSu",
+						"onSubmitEmail"
+					],
+					[
+						"Con",
+						"CONSTANTS"
+					],
+					[
+						"bg",
+						"background-size"
+					],
+					[
+						"Page",
+						"PageAdapter"
+					],
+					[
+						"paddin",
+						"padding-left"
+					],
+					[
+						"response",
+						"responseText"
+					],
+					[
+						"de",
+						"defaultRoute"
+					],
+					[
+						"g",
+						"GET_MARKETS_TEXT"
+					],
+					[
+						"in",
+						"injectValue"
+					],
+					[
+						"child",
+						"childStretchingPercent"
+					],
+					[
+						"margin",
+						"marginWidth"
+					],
+					[
+						"fixed",
+						"fixedRows"
+					],
+					[
+						"fix",
+						"fixedRows"
+					],
+					[
+						"pa",
+						"parentWidth"
+					],
+					[
+						"getPr",
+						"getParentWidth"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"width",
+						"widthPercent"
+					],
+					[
+						"rows",
+						"rowsAmount"
+					],
+					[
+						"optimal",
+						"optimalRows"
+					],
+					[
+						"play",
+						"playButton"
+					],
+					[
+						"playBu",
+						"playButtonParams"
+					],
+					[
+						"G",
+						"GenrePageContainer"
+					],
+					[
+						"Gen",
+						"GenrePageReleases"
+					],
+					[
+						"st",
+						"stretchyParams"
+					],
+					[
+						"showMore",
+						"showMoreTitle"
+					],
+					[
+						"button",
+						"buttonParams"
+					],
+					[
+						"opti",
+						"optimalRows"
+					],
+					[
+						"parse",
+						"parseValue"
+					],
+					[
+						"value",
+						"valueArr"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"page",
+						"PageContainer"
+					],
+					[
+						"resu",
+						"resultObj"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"zv",
+						"zvooqcomponent	zvooqBoilerPlate"
+					],
+					[
+						"sent",
+						"sentryClient"
+					],
+					[
+						"dev",
+						"devExtend"
+					],
+					[
+						"Succ",
+						"SuccessButtons"
+					],
+					[
+						"succe",
+						"success_screen"
+					],
+					[
+						"for",
+						"forPlatforms"
+					],
+					[
+						"mob",
+						"mobVendor"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"use",
+						"username"
+					],
+					[
+						"store",
+						"storeWithMiddleware"
+					],
+					[
+						"Fet",
+						"FETCH_CARDS"
+					],
+					[
+						"fetch",
+						"fetchCards"
+					],
+					[
+						"c",
+						"combineReducers"
+					],
+					[
+						"sc",
+						"scrollBlock"
+					],
+					[
+						"clic",
+						"clickstream"
+					],
+					[
+						"every",
+						"everywhere"
+					],
+					[
+						"eve",
+						"everywhere"
+					],
+					[
+						"tex",
+						"textContent"
+					],
+					[
+						"geo",
+						"geoblockNode"
+					],
+					[
+						"mark",
+						"marketsText"
+					],
+					[
+						"prevent",
+						"preventDefault"
+					],
+					[
+						"ren",
+						"renderIntoDocument"
+					],
+					[
+						"red",
+						"renderedHeaderIntoDom"
+					],
+					[
+						"head",
+						"headerComponent"
+					],
+					[
+						"data",
+						"dataProvider"
+					],
+					[
+						"tes",
+						"test_helpers"
+					],
+					[
+						"he",
+						"headerComponent"
+					],
+					[
+						"heade",
+						"Header"
+					],
+					[
+						"custom",
+						"customErrors"
+					],
+					[
+						"err",
+						"errMsg"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 252.0,
+				"last_filter": "instal",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						":wq",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						":4",
+						"Set Syntax: camlp4"
+					],
+					[
+						"sssty",
+						"Set Syntax: Stylus"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"upa",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ssbab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"re	has",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"rehs",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"replha",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"toggle si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"ssjade",
+						"Set Syntax: Jade"
+					],
+					[
+						"bab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"remove	",
+						"Package Control: Remove Package"
+					],
+					[
+						"ssst",
+						"Set Syntax: Stylus"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjsx",
+						"Set Syntax: JavaScript (JSX)"
+					],
+					[
+						"ssjde",
+						"Set Syntax: Jade"
+					],
+					[
+						"ssjad",
+						"Set Syntax: Jade"
+					],
+					[
+						"ssja",
+						"Set Syntax: Jade"
+					],
+					[
+						"prfjs",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"lista",
+						"Package Control: List Packages"
+					],
+					[
+						"rplno",
+						"SublimeREPL: Node"
+					],
+					[
+						"repl node",
+						"SublimeREPL: Node"
+					],
+					[
+						"ssc#",
+						"Set Syntax: C#"
+					],
+					[
+						"isnt",
+						"Package Control: Install Package"
+					],
+					[
+						"lstpkg",
+						"Package Control: List Packages"
+					],
+					[
+						"hay",
+						"Hayaku: Expand abbreviation"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"repsch",
+						"SublimeREPL: Scheme"
+					],
+					[
+						"repl",
+						"SublimeREPL: Scheme"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"repl: cl",
+						"SublimeREPL: Clojure"
+					],
+					[
+						"repl sche",
+						"SublimeREPL: Scheme"
+					],
+					[
+						"repl sch",
+						"SublimeREPL: Scheme"
+					],
+					[
+						":qq",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"sscs",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"json prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					]
+				],
+				"width": 529.0
+			},
+			"console":
+			{
+				"height": 379.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/al/projects/debijenkorf/src/containers/details.js",
+				"/Users/al/projects/zvq-web-proxy/nstatic/public/compiled/bud.css",
+				"/Users/al/projects/zvq-web-proxy/nstatic/public/compiled/code.css",
+				"/Users/al/projects/zvq-prod/zvooq-web/grunt/closure.js",
+				"/Users/al/projects/debijenkorf/package.json",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/common/stretchy/stretchy.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/common/stretchy/stretchy_child.jsx",
+				"/Users/al/projects/zvq-prod/htdocs/s_src/js/zvq/components/common/stretchy/stretchy_child.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/music_page/container_manager.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mood/mood.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/featured_content/featured_genre.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/analytics/clickstream.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/common/stretchy/stretchy_child.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/mixins/clickstream.js",
+				"/Users/al/.gitconfig",
+				"/Users/al/projects/zvq-prod/.git/config",
+				"/Users/al/projects/zvq-prod/.gitconfig",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/media_list/media_list.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/application/application.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/featured_content/featured_mood.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/featured_content/featured_content.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/widgets/user_filter/pane.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/playlists_page/model.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/mood/mood.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/playlists_page/playlists_page.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/playlists_page/container.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/playlists_page/playlists_page.js",
+				"/Users/al/projects/zvq-prod/djangoproj/settings_local.py",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/playlist_card/playlist_card_big.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus/components/playlist_card_big.styl",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/playlists_page/playlists_page.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/tests/modules/geoblock/components/geoblock.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/code/code.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_privacy.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_terms.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_service.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/header_model.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about.jsx",
+				"/Users/al/projects/zvq-web-proxy/package.json",
+				"/Users/al/projects/zvq-web-proxy/webpack.config.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/modal/modal.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/modal/modal.styl",
+				"/Users/al/projects/zvq-web-proxy/webpack.config.prod.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/tests/modules/landing_constructor/modal/modal.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/freecheese.styl",
+				"/Users/al/projects/zvq-web-proxy/webpack.config.dev.js",
+				"/Users/al/Library/Application Support/Sublime Text 3/Packages/User/zvqsnippets/jsxBoilerPlate.sublime-snippet",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/blocks/banner.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/blocks/gridcore.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/mobscreen.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/components/geoblock_page.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/kyivstar/kyivstar.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/geoblock.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/search_page/search_page.js",
+				"/Users/al/Library/Application Support/Sublime Text 3/Packages/User/zvqsnippets/isnull.sublime-snippet",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/playlists_page/playlists_page.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/library_page/container.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/package.json",
+				"/Users/al/.bash_profile",
+				"/Users/al/.bash_pro",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/widgets/help/help.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvqa/web/application/application.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/tests/helpers/query.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/helpers/query.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/bud/bud.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/widgets/help/container.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/widgets/help/templates/user_help.ojst",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/helpers/common.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/code_form/code_form.jsx",
+				"/Users/al/projects/zvq-web-proxy/webpack.globals.json",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/i/labels/label_04.png",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/freecheese.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mobile_login/mobile_login.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mobile_login/sign_forms.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/mixins/bem.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/opf/pages/page.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/opf/pages/manager.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/featured_content/featured_genre.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvqa/web/application/application.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/manager.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvqa/web/pages/manager.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/page/page_adapter.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/closure-library/closure/goog/ui/component.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/user_page/container.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/user_page/user_page.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/user_page/page_container.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/quiz/quiz.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/playlists_page/container.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/page.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/user_page/page_container.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/managers/music/music.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/queue/manager/shuffle/future_data_manager.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvqa/welcome/widgets/promo_music/model.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/genre_page/genre_page.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/genre_page/genre_page_playlists.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mood/mood.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus/components/playlists/playlists_page.styl",
+				"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus/components/mood.styl",
+				"/Users/al/projects/zvq-prod/zvooq/web/views/music_page.py",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/router/playlists_id.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/route_name.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/playlists_id.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/waves.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/wave.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/playlists.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvqa/web/requires.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/money_deposit.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/npf/router/route.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/application/application.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/mixins/meta_code.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/install/install.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/meta_code/meta_code.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/mixins/bem.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/header/header.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/login/login_email.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/login/login.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/components/login_page.jsx",
+				"/Users/al/projects/zvq-prod/zvooq/templates/password_reminder/password_reminder.html",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/login/manager.js",
+				"/Users/al/projects/zvq-web-proxy/napi/user-info.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/components/login_page.styl",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/genre_page/genre_page_playlists.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/react/init.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/library_media_list/library_media_list.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/mobile_banner/link_sender.jsx"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 105.0,
+				"where_history":
+				[
+					"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/",
+					"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/**/*.jsx",
+					"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"getChecked",
+					"children",
+					"font-family:Museo",
+					"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",
+					"import",
+					"componentDStretched",
+					"componentStretched",
+					"co",
+					"sendClickstream",
+					"collectAndSendClickstream",
+					"MAIN_PAGE_SHOWN",
+					"clickstreamSender",
+					"is",
+					"collectClickstream",
+					"stretched",
+					"{\n",
+					"button",
+					"sendClickstream",
+					"stretch",
+					"componentDidStretch",
+					"afterFirstStretch",
+					"createClass",
+					"verboseMode",
+					"getCsMediaType",
+					"\n    ",
+					"user",
+					"media",
+					"{\n",
+					"_clickstreamFeaturedSend",
+					"verboseMode",
+					"button",
+					"sendClickstream() {\n    const\n      { item } = this.props,\n      button = ReactDOM.findDOMNode(this),\n      position = button.getBoundingClientRect(),\n      content = {\n        tracklist_type: item.mood ? 'mood' : 'situation',\n        tracklist_id: item.id,\n        position: {\n          position_x: position.left,\n          position_y: position.top,\n          length: button.offsetHeight,\n          width: button.offsetWidth\n        }\n      };\n\n    zvqApp.clickstreamSender.sendEvent(\n      zvqApp.clickstreamSender.Event.MAIN_PAGE_SHOWN, { content }\n    );\n  },",
+					"{\n",
+					"') ",
+					",\n",
+					"csContent",
+					"hasFilteredData",
+					"onNavigation",
+					"onFilterChange",
+					"id",
+					"onMoodsLoad",
+					"filterAction",
+					"'));",
+					"';\n",
+					"25px",
+					"relative",
+					"closed",
+					"#0000i0",
+					"err",
+					"color",
+					"linear-gradient",
+					"',\n",
+					"{\n",
+					"_getFilter",
+					"_isNewFilter",
+					"{\n",
+					"postcss",
+					"filterByTags",
+					"_getFilter",
+					"query",
+					"utils",
+					"query",
+					"LOL",
+					"var",
+					"window.location.href;",
+					"href",
+					"function",
+					"helpers",
+					"arrFromLocSearch",
+					"CodeForm",
+					"query",
+					"utils",
+					"mobileLoginForm",
+					");\n",
+					");\n\n",
+					");\n",
+					"this.help",
+					"Help",
+					"this.pagesManager",
+					"pagesManager",
+					"pageName",
+					"\"",
+					"zvq.pages.Type.",
+					"};\n",
+					".addRoute",
+					"zvq.router.",
+					"_getFilter",
+					"loadMain",
+					"filterAction",
+					"loadMain",
+					"createContainer",
+					"setupEnvironment",
+					"loadInternal",
+					"wasLoaded",
+					"add",
+					"createTitle",
+					"setTitle",
+					"UserPage",
+					"components",
+					"load",
+					"this.container",
+					"add",
+					"prototype.add",
+					"add",
+					".js",
+					"tags",
+					"console",
+					"filterAction",
+					"onFilter",
+					"fireEvent",
+					"filterByTags",
+					"model",
+					"library",
+					"UserPage",
+					"this.init();",
+					"model",
+					"zvq.pages.Page",
+					"zvq.pages.playlistsPage.Model.EventType.DATA_REQUEST",
+					"_onModelDataRequest",
+					"load",
+					"model",
+					"getModel",
+					"setModel",
+					"getModel",
+					"this.getModel",
+					"setCrossPageContainer"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"'",
+					"\"",
+					"Searching",
+					"_extraClassNames",
+					"$1zvq.pages.$2",
+					"\n",
+					"}\n",
+					"",
+					"'",
+					"time",
+					"\"",
+					"\\n-$1",
+					"\\n-",
+					"",
+					"$1.$2",
+					"\"\\n    }",
+					"\"\\n}",
+					" $1 }",
+					"{$1},",
+					",\\n",
+					"\"$1\":",
+					"\"$1\"",
+					"\"",
+					"define (require) ->\\n $1",
+					"  ",
+					"\\s\\s"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 148.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.haskell_sublime_load":
+			{
+				"height": 146.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"banner",
+						"djangoproj/static/s_src/js/zvq/components/mbanner/mbanner.jsx"
+					],
+					[
+						"freemium",
+						"djangoproj/static/s_src/js/zvq/freemium/freemium.js"
+					],
+					[
+						"freem",
+						"djangoproj/static/s_src/js/zvq/freemium/freemium.js"
+					],
+					[
+						"mbanner",
+						"djangoproj/static/s_src/js/zvq/components/mbanner/mbanner.jsx"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1212.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"zvq",
+						"zvqApp"
+					],
+					[
+						"com",
+						"componentDidMount"
+					],
+					[
+						"sen",
+						"sendClickstream"
+					],
+					[
+						"stre",
+						"stretched"
+					],
+					[
+						"tags",
+						"tagsString"
+					],
+					[
+						"next",
+						"nextFilter"
+					],
+					[
+						"on",
+						"onMoodsLoad"
+					],
+					[
+						"tex-",
+						"text-decoration"
+					],
+					[
+						"bore",
+						"border-left"
+					],
+					[
+						"con",
+						"convertColor"
+					],
+					[
+						"crea",
+						"createcomponent	jsxBoilerPlate"
+					],
+					[
+						"cre",
+						"createcomponent	jsxBoilerPlate"
+					],
+					[
+						"set",
+						"setupEnvironment"
+					],
+					[
+						"get",
+						"getFilter"
+					],
+					[
+						"_p",
+						"_prevFilter"
+					],
+					[
+						"sin",
+						"singlesFromQs"
+					],
+					[
+						"user",
+						"userConnections"
+					],
+					[
+						"show",
+						"showSuccess"
+					],
+					[
+						"sho",
+						"showSubscription"
+					],
+					[
+						"close",
+						"closePopup"
+					],
+					[
+						"fixe",
+						"fixedWidth"
+					],
+					[
+						"max",
+						"maxWidth"
+					],
+					[
+						"parent",
+						"parentWidth"
+					],
+					[
+						"min",
+						"minMarginsWidth"
+					],
+					[
+						"mar",
+						"marginWidth"
+					],
+					[
+						"paren",
+						"parentWidth"
+					],
+					[
+						"Re",
+						"ReactDOM"
+					],
+					[
+						"dis",
+						"displayStyle"
+					],
+					[
+						"add",
+						"addChild"
+					],
+					[
+						"has",
+						"hasFeature"
+					],
+					[
+						"to",
+						"topGenreIds"
+					],
+					[
+						"que",
+						"queueItems"
+					],
+					[
+						"track",
+						"trackIds"
+					],
+					[
+						"contexts",
+						"contextsToXhr_"
+					],
+					[
+						"isDefAndNotNull",
+						"!goog.isDefAndNotNull	notisnull"
+					],
+					[
+						"ext",
+						"extraPositions"
+					],
+					[
+						"web",
+						"webpackConfig"
+					],
+					[
+						"op",
+						"optimizeCommon"
+					],
+					[
+						"tar",
+						"targetObj"
+					],
+					[
+						"su",
+						"submitFunc"
+					],
+					[
+						"sub",
+						"submitFunc"
+					],
+					[
+						"succes",
+						"successFunc"
+					],
+					[
+						"lo",
+						"log	console.log(...);"
+					],
+					[
+						"babel",
+						"babelIdx"
+					],
+					[
+						"lode",
+						"loader"
+					],
+					[
+						"test",
+						"test_helpers"
+					],
+					[
+						"rewi",
+						"rewiredReverts"
+					],
+					[
+						"va",
+						"varValues"
+					],
+					[
+						"succ",
+						"successFunc"
+					],
+					[
+						"lin",
+						"linkADom"
+					],
+					[
+						"text",
+						"textContent"
+					],
+					[
+						"geob",
+						"geoblock"
+					],
+					[
+						"redu",
+						"reduceFn"
+					],
+					[
+						"reduce",
+						"reduceFn"
+					],
+					[
+						"create",
+						"createReducer"
+					],
+					[
+						"mere",
+						"mergeMethodName"
+					],
+					[
+						"re",
+						"reduced"
+					],
+					[
+						"pro",
+						"processedActions"
+					],
+					[
+						"ac",
+						"actionDescription"
+					],
+					[
+						"mini",
+						"miniObject"
+					],
+					[
+						"params",
+						"paramsArray"
+					],
+					[
+						"query",
+						"queryString"
+					],
+					[
+						"param",
+						"paramsObject"
+					],
+					[
+						"from",
+						"fromJS"
+					],
+					[
+						"email",
+						"emailFail"
+					],
+					[
+						"pane",
+						"paneParams"
+					],
+					[
+						"onSu",
+						"onSubmitEmail"
+					],
+					[
+						"Con",
+						"CONSTANTS"
+					],
+					[
+						"bg",
+						"background-size"
+					],
+					[
+						"Page",
+						"PageAdapter"
+					],
+					[
+						"paddin",
+						"padding-left"
+					],
+					[
+						"response",
+						"responseText"
+					],
+					[
+						"de",
+						"defaultRoute"
+					],
+					[
+						"g",
+						"GET_MARKETS_TEXT"
+					],
+					[
+						"in",
+						"injectValue"
+					],
+					[
+						"child",
+						"childStretchingPercent"
+					],
+					[
+						"margin",
+						"marginWidth"
+					],
+					[
+						"fixed",
+						"fixedRows"
+					],
+					[
+						"fix",
+						"fixedRows"
+					],
+					[
+						"pa",
+						"parentWidth"
+					],
+					[
+						"getPr",
+						"getParentWidth"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"width",
+						"widthPercent"
+					],
+					[
+						"rows",
+						"rowsAmount"
+					],
+					[
+						"optimal",
+						"optimalRows"
+					],
+					[
+						"play",
+						"playButton"
+					],
+					[
+						"playBu",
+						"playButtonParams"
+					],
+					[
+						"G",
+						"GenrePageContainer"
+					],
+					[
+						"Gen",
+						"GenrePageReleases"
+					],
+					[
+						"st",
+						"stretchyParams"
+					],
+					[
+						"showMore",
+						"showMoreTitle"
+					],
+					[
+						"button",
+						"buttonParams"
+					],
+					[
+						"opti",
+						"optimalRows"
+					],
+					[
+						"parse",
+						"parseValue"
+					],
+					[
+						"value",
+						"valueArr"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"page",
+						"PageContainer"
+					],
+					[
+						"resu",
+						"resultObj"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"zv",
+						"zvooqcomponent	zvooqBoilerPlate"
+					],
+					[
+						"sent",
+						"sentryClient"
+					],
+					[
+						"dev",
+						"devExtend"
+					],
+					[
+						"Succ",
+						"SuccessButtons"
+					],
+					[
+						"succe",
+						"success_screen"
+					],
+					[
+						"for",
+						"forPlatforms"
+					],
+					[
+						"mob",
+						"mobVendor"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"use",
+						"username"
+					],
+					[
+						"store",
+						"storeWithMiddleware"
+					],
+					[
+						"Fet",
+						"FETCH_CARDS"
+					],
+					[
+						"fetch",
+						"fetchCards"
+					],
+					[
+						"c",
+						"combineReducers"
+					],
+					[
+						"sc",
+						"scrollBlock"
+					],
+					[
+						"clic",
+						"clickstream"
+					],
+					[
+						"every",
+						"everywhere"
+					],
+					[
+						"eve",
+						"everywhere"
+					],
+					[
+						"tex",
+						"textContent"
+					],
+					[
+						"geo",
+						"geoblockNode"
+					],
+					[
+						"mark",
+						"marketsText"
+					],
+					[
+						"prevent",
+						"preventDefault"
+					],
+					[
+						"ren",
+						"renderIntoDocument"
+					],
+					[
+						"red",
+						"renderedHeaderIntoDom"
+					],
+					[
+						"head",
+						"headerComponent"
+					],
+					[
+						"data",
+						"dataProvider"
+					],
+					[
+						"tes",
+						"test_helpers"
+					],
+					[
+						"he",
+						"headerComponent"
+					],
+					[
+						"heade",
+						"Header"
+					],
+					[
+						"custom",
+						"customErrors"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about.jsx",
+					"settings":
+					{
+						"buffer_size": 909,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/al/Library/Application Support/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 19,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.jsx",
+					"settings":
+					{
+						"buffer_size": 844,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.styl",
+					"settings":
+					{
+						"buffer_size": 52,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/header_model.js",
+					"settings":
+					{
+						"buffer_size": 188,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 362.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"lista",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						":wq",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						":4",
+						"Set Syntax: camlp4"
+					],
+					[
+						"sssty",
+						"Set Syntax: Stylus"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"upa",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ssbab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"re	has",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"rehs",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"replha",
+						"SublimeREPL: Haskell"
+					],
+					[
+						"toggle si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"ssjade",
+						"Set Syntax: Jade"
+					],
+					[
+						"bab",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"remove	",
+						"Package Control: Remove Package"
+					],
+					[
+						"ssst",
+						"Set Syntax: Stylus"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjsx",
+						"Set Syntax: JavaScript (JSX)"
+					],
+					[
+						"ssjde",
+						"Set Syntax: Jade"
+					],
+					[
+						"ssjad",
+						"Set Syntax: Jade"
+					],
+					[
+						"ssja",
+						"Set Syntax: Jade"
+					],
+					[
+						"prfjs",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"rplno",
+						"SublimeREPL: Node"
+					],
+					[
+						"repl node",
+						"SublimeREPL: Node"
+					],
+					[
+						"ssc#",
+						"Set Syntax: C#"
+					],
+					[
+						"isnt",
+						"Package Control: Install Package"
+					],
+					[
+						"lstpkg",
+						"Package Control: List Packages"
+					],
+					[
+						"hay",
+						"Hayaku: Expand abbreviation"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"repsch",
+						"SublimeREPL: Scheme"
+					],
+					[
+						"repl",
+						"SublimeREPL: Scheme"
+					],
+					[
+						"sscss",
+						"Set Syntax: CSS"
+					],
+					[
+						"repl: cl",
+						"SublimeREPL: Clojure"
+					],
+					[
+						"repl sche",
+						"SublimeREPL: Scheme"
+					],
+					[
+						"repl sch",
+						"SublimeREPL: Scheme"
+					],
+					[
+						":qq",
+						"Pretty JSON: JSON query with ./jq"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"sscs",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"json prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					]
+				],
+				"width": 529.0
+			},
+			"console":
+			{
+				"height": 379.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/al/projects/zvq-web-proxy",
+				"/Users/al/projects/zvq-web-proxy/frontend",
+				"/Users/al/projects/zvq-web-proxy/frontend/src",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/mixins",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/code"
+			],
+			"file_history":
+			[
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/success_screen/success_buttons.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/success_screen/success_screen.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/code/code.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/success_screen/success_screen.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/mixins/clickstream.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/mood/mood.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/featured_content/featured_genre.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/analytics/clickstream.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/application/application.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/mixins/clickstream.js",
+				"/Users/al/projects/debijenkorf/src/routes.js",
+				"/Users/al/projects/zvq-web-proxy/package.json",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/code/code.styl",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/playlist_card/playlist_card_big.jsx",
+				"/Users/al/projects/zvq-web-proxy/nstatic/public/compiled/bud.css",
+				"/Users/al/projects/zvq-web-proxy/nstatic/public/compiled/code.css",
+				"/Users/al/projects/zvq-prod/zvooq-web/grunt/closure.js",
+				"/Users/al/projects/debijenkorf/package.json",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/common/stretchy/stretchy.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/common/stretchy/stretchy_child.jsx",
+				"/Users/al/projects/zvq-prod/htdocs/s_src/js/zvq/components/common/stretchy/stretchy_child.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/music_page/container_manager.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mood/mood.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/featured_content/featured_genre.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/common/stretchy/stretchy_child.jsx",
+				"/Users/al/.gitconfig",
+				"/Users/al/projects/zvq-prod/.git/config",
+				"/Users/al/projects/zvq-prod/.gitconfig",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/media_list/media_list.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/featured_content/featured_mood.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/featured_content/featured_content.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/widgets/user_filter/pane.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/playlists_page/model.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/playlists_page/playlists_page.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/playlists_page/container.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/playlists_page/playlists_page.js",
+				"/Users/al/projects/zvq-prod/djangoproj/settings_local.py",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/components/playlist_card/playlist_card_big.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus/components/playlist_card_big.styl",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/playlists_page/playlists_page.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/tests/modules/geoblock/components/geoblock.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_privacy.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_terms.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_service.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/header_model.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about.jsx",
+				"/Users/al/projects/zvq-web-proxy/webpack.config.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/modal/modal.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/modal/modal.styl",
+				"/Users/al/projects/zvq-web-proxy/webpack.config.prod.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/tests/modules/landing_constructor/modal/modal.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/freecheese.styl",
+				"/Users/al/projects/zvq-web-proxy/webpack.config.dev.js",
+				"/Users/al/Library/Application Support/Sublime Text 3/Packages/User/zvqsnippets/jsxBoilerPlate.sublime-snippet",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/blocks/banner.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/blocks/gridcore.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/mobscreen.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/components/geoblock_page.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/kyivstar/kyivstar.styl",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/geoblock.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/search_page/search_page.js",
+				"/Users/al/Library/Application Support/Sublime Text 3/Packages/User/zvqsnippets/isnull.sublime-snippet",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/playlists_page/playlists_page.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/library_page/container.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/package.json",
+				"/Users/al/.bash_profile",
+				"/Users/al/.bash_pro",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/widgets/help/help.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvqa/web/application/application.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/tests/helpers/query.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/helpers/query.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/bud/bud.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/widgets/help/container.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/widgets/help/templates/user_help.ojst",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/helpers/common.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/code_form/code_form.jsx",
+				"/Users/al/projects/zvq-web-proxy/webpack.globals.json",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/i/labels/label_04.png",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/hybrid/freecheese.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mobile_login/mobile_login.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mobile_login/sign_forms.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/mixins/bem.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/opf/pages/page.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/opf/pages/manager.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvqa/web/application/application.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/manager.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvqa/web/pages/manager.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/page/page_adapter.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/closure-library/closure/goog/ui/component.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/user_page/container.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/user_page/user_page.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/user_page/page_container.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/quiz/quiz.jsx",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/pages/playlists_page/container.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/page.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/user_page/page_container.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/managers/music/music.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/queue/manager/shuffle/future_data_manager.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvqa/welcome/widgets/promo_music/model.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/pages/genre_page/genre_page.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/genre_page/genre_page_playlists.jsx",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/components/mood/mood.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus/components/playlists/playlists_page.styl",
+				"/Users/al/projects/zvq-prod/zvooq-web/assets/stylus/components/mood.styl",
+				"/Users/al/projects/zvq-prod/zvooq/web/views/music_page.py",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/router/playlists_id.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/route_name.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/playlists_id.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/waves.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/wave.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/playlists.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvqa/web/requires.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/router/money_deposit.js",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js_contrib/npf/router/route.js",
+				"/Users/al/projects/zvq-prod/djangoproj/static/s_src/js/zvq/application/application.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/mixins/meta_code.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/install/install.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/meta_code/meta_code.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/mixins/bem.js",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/header/header.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/login/login_email.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/landing_constructor/login/login.jsx",
+				"/Users/al/projects/zvq-web-proxy/frontend/src/modules/geoblock/components/login_page.jsx",
+				"/Users/al/projects/zvq-prod/zvooq/templates/password_reminder/password_reminder.html",
+				"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/zvq/login/manager.js"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 105.0,
+				"where_history":
+				[
+					"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/",
+					"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js/**/*.jsx",
+					"/Users/al/projects/zvq-prod/zvooq-web/htdocs/s_src/js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"title",
+					"redirect",
+					"jsx",
+					")\n",
+					"MAIN_PAGE_CLICKED",
+					"log",
+					"zvqApp",
+					"this.mainPageClickstreamSend",
+					"font-family:Museo",
+					"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",
+					"import",
+					"componentDStretched",
+					"componentStretched",
+					"co",
+					"sendClickstream",
+					"collectAndSendClickstream",
+					"MAIN_PAGE_SHOWN",
+					"clickstreamSender",
+					"is",
+					"collectClickstream",
+					"stretched",
+					"{\n",
+					"button",
+					"sendClickstream",
+					"stretch",
+					"componentDidStretch",
+					"afterFirstStretch",
+					"createClass",
+					"verboseMode",
+					"getCsMediaType",
+					"\n    ",
+					"user",
+					"media",
+					"{\n",
+					"_clickstreamFeaturedSend",
+					"verboseMode",
+					"button",
+					"sendClickstream() {\n    const\n      { item } = this.props,\n      button = ReactDOM.findDOMNode(this),\n      position = button.getBoundingClientRect(),\n      content = {\n        tracklist_type: item.mood ? 'mood' : 'situation',\n        tracklist_id: item.id,\n        position: {\n          position_x: position.left,\n          position_y: position.top,\n          length: button.offsetHeight,\n          width: button.offsetWidth\n        }\n      };\n\n    zvqApp.clickstreamSender.sendEvent(\n      zvqApp.clickstreamSender.Event.MAIN_PAGE_SHOWN, { content }\n    );\n  },",
+					"{\n",
+					"') ",
+					",\n",
+					"csContent",
+					"hasFilteredData",
+					"onNavigation",
+					"onFilterChange",
+					"id",
+					"onMoodsLoad",
+					"filterAction",
+					"'));",
+					"';\n",
+					"25px",
+					"relative",
+					"closed",
+					"#0000i0",
+					"err",
+					"color",
+					"linear-gradient",
+					"',\n",
+					"{\n",
+					"_getFilter",
+					"_isNewFilter",
+					"{\n",
+					"postcss",
+					"filterByTags",
+					"_getFilter",
+					"query",
+					"utils",
+					"query",
+					"LOL",
+					"var",
+					"window.location.href;",
+					"href",
+					"function",
+					"helpers",
+					"arrFromLocSearch",
+					"CodeForm",
+					"query",
+					"utils",
+					"mobileLoginForm",
+					");\n",
+					");\n\n",
+					");\n",
+					"this.help",
+					"Help",
+					"this.pagesManager",
+					"pagesManager",
+					"pageName",
+					"\"",
+					"zvq.pages.Type.",
+					"};\n",
+					".addRoute",
+					"zvq.router.",
+					"_getFilter",
+					"loadMain",
+					"filterAction",
+					"loadMain",
+					"createContainer",
+					"setupEnvironment",
+					"loadInternal",
+					"wasLoaded",
+					"add",
+					"createTitle",
+					"setTitle",
+					"UserPage",
+					"components",
+					"load",
+					"this.container",
+					"add",
+					"prototype.add",
+					"add",
+					".js",
+					"tags",
+					"console",
+					"filterAction",
+					"onFilter",
+					"fireEvent",
+					"filterByTags",
+					"model",
+					"library",
+					"UserPage",
+					"this.init();",
+					"model",
+					"zvq.pages.Page",
+					"zvq.pages.playlistsPage.Model.EventType.DATA_REQUEST",
+					"_onModelDataRequest",
+					"load"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"'",
+					"\"",
+					"Searching",
+					"_extraClassNames",
+					"$1zvq.pages.$2",
+					"\n",
+					"}\n",
+					"",
+					"'",
+					"time",
+					"\"",
+					"\\n-$1",
+					"\\n-",
+					"",
+					"$1.$2",
+					"\"\\n    }",
+					"\"\\n}",
+					" $1 }",
+					"{$1},",
+					",\\n",
+					"\"$1\":",
+					"\"$1\"",
+					"\"",
+					"define (require) ->\\n $1",
+					"  ",
+					"\\s\\s"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/al/projects/zvq-prod"
+				},
+				{
+					"path": "/Users/al/projects/zvq-web-proxy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 909,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										371,
+										371
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 227.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/al/Library/Application Support/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19,
+										19
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 844,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										528,
+										528
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 125.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/about_header.styl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 52,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Stylus/Stylus.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/al/projects/zvq-web-proxy/frontend/src/modules/about/header_model.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 188,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										181,
+										181
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 148.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.haskell_sublime_load":
+			{
+				"height": 146.0
+			},
+			"pinned_build_system": "",
+			"position": "1 7 0 1212 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"banner",
+						"djangoproj/static/s_src/js/zvq/components/mbanner/mbanner.jsx"
+					],
+					[
+						"freemium",
+						"djangoproj/static/s_src/js/zvq/freemium/freemium.js"
+					],
+					[
+						"freem",
+						"djangoproj/static/s_src/js/zvq/freemium/freemium.js"
+					],
+					[
+						"mbanner",
+						"djangoproj/static/s_src/js/zvq/components/mbanner/mbanner.jsx"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 198,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

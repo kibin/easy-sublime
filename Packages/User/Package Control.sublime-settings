@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Better CoffeeScript",
+		"Better JavaScript",
+		"BracketGuard",
+		"BracketHighlighter",
+		"CTags",
+		"Elm Language Support",
+		"Emmet",
+		"Handlebars",
+		"Indent XML",
+		"Jade",
+		"LESS",
+		"Package Control",
+		"Scheme",
+		"SCSS",
+		"Stylus",
+		"SublimeLinter",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Theme - itg.flat",
+		"Theme - Spacegray",
+		"ToggleQuotes",
+		"TrailingSpaces"
+	]
+}
